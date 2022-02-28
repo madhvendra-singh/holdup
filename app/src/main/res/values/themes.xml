@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Holdup" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#B407F3</item>
+        <item name="colorPrimaryVariant">#B407F3</item>
+        <item name="colorOnPrimary">#B407F3</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#B407F3</item>
+        <item name="colorSecondaryVariant">#B407F3</item>
+        <item name="colorOnSecondary">#B407F3</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
